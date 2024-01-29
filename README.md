@@ -10,7 +10,7 @@ Instructions to set up and run the tests
 
 Clone this repository:
 
-    https://github.com/your-username/playwright-test-project.git
+    https://github.com/EdgarTor/10web_automation_task.git
 
 Navigate to the project folder:
 
