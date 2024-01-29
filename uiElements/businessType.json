@@ -1,0 +1,12 @@
+{
+    "inputDiv": {
+        "locator": "#selected_industry"
+    },
+    "businessTypeInput": {
+        "placeholder": "Search for your business or site type"
+    },
+
+    "nextBtn": {
+        "locator": ".dashboard_link"
+    }
+}

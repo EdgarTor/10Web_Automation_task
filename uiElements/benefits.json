@@ -1,0 +1,24 @@
+{
+    "benefitInput1": {
+        "locator": ".ds-input-black",
+        "placeholder": "Ex: Cozy Place"
+    },
+
+    "benefitInput2": {
+        "locator": ".ds-input-black",
+        "placeholder": "Ex: Good Vibes"
+    },
+
+    "benefitInput3": {
+        "locator": ".ds-input-black",
+        "placeholder": "Ex: Relax Atmosphere"
+    },
+
+    "finalizeBtn": {
+        "locator": ".ds-btn-black"
+    },
+
+    "successModal": {
+        "locator": ".modal-dialog"
+    }
+}

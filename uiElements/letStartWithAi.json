@@ -1,0 +1,9 @@
+{
+    "informationalWebsite": {
+        "locator": ".radio_buttons_row"
+    },
+    
+    "nextBtn": {
+        "locator": ".select_type"
+    }
+}

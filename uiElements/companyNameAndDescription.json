@@ -1,0 +1,18 @@
+{
+    "nameInput": {
+        "locator": ".ds-input-black"
+    },
+
+    "descriptionInput": {
+        "locator": ".ds-textarea-black"
+    },
+
+    "enhanceBtn": {
+        "locator": ".generate-ai"
+    },
+
+    "nextBtn": {
+        "locator": ".ds-btn-black"
+    }
+
+}
